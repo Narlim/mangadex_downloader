@@ -1,1 +1,1 @@
-### use selenium to download mangadex image
+### use selenium to download manga from mangadex.org
